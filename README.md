@@ -3,7 +3,7 @@
 # Internship at Girikon
 
 ## Project Overview
-During my internship at Girikon, I worked on the **[Recruiting team App]**, where I was responsible for developing/working on [Web development]. 
+During my internship at Girikon, I worked on the **Recruiting team App**, where I was responsible for developing/working on Web development. 
 
 ## Skills & Technologies Used
 - Salesforce CRM
